@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 
 class SearchBar extends Component {
   render() {
-    return <input onInputChange={this.onInputChange} />;
+    return <input onChange={this.onInputChange} />;
   }
 
   onInputChange(event) {
