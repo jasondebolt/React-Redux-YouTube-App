@@ -5,7 +5,9 @@ import YTSearch from 'youtube-api-search';
 import SearchBar from './search_bar';
 import VideoList from './video_list';
 import VideoDetail from './video_detail'
-const API_KEY = 'AIzaSyBG0k35sC72spMm4noocemn1UKimfHOvBs';
+// Generate a YouTube API Key here:
+// https://console.developers.google.com/apis/credentials
+const API_KEY = 'enter API key here' // See above comments
 
 
 export default class App extends Component {
