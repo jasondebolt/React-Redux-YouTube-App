@@ -1,5 +1,7 @@
 # React-Redux-YouTube-App
 
+Originally forked from https://github.com/StephenGrider/ReduxSimpleStarter
+
 ### Getting Started
 
 ```
