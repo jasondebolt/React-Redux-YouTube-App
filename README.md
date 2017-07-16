@@ -14,7 +14,7 @@ const API_KEY = 'enter API key here' // See above comments
 ```
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/jasondebolt/React-Redux-YouTube-App.git
 > cd React-Redux-YouTube-App
 > npm install
 > npm start
